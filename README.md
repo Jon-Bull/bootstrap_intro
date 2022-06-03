@@ -1,6 +1,6 @@
 # bootstrap_intro
 
-Resource links:
+Useful links:
 
     https://www.w3schools.com/tags/tag_meta.asp
     https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag
@@ -13,3 +13,8 @@ Resource links:
     https://mailchimp.com/en/help/add-a-signup-form-to-your-website/
     https://mailchimp.com/
     https://mailchimp.com/help/create-a-landing-page/
+    https://animate.style/
+    http://www.mashup-template.com/templates.html
+    https://mdbootstrap.com/freebies/
+    https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price
+    https://startbootstrap.com/templates
