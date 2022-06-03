@@ -1,6 +1,7 @@
 # bootstrap_intro
 
 Resource links:
+
     https://www.w3schools.com/tags/tag_meta.asp
     https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag
     https://www.quora.com/What-is-UTF8
